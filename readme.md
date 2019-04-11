@@ -6,4 +6,4 @@ python crawler.py posts_full -u cal_foodie -n 100 -o ./output
 
 python crawler.py profile -u cal_foodie -o ./output
 
-python crawler.py hashtag -t taiwan -o ./outpu
+python crawler.py hashtag -t 댕스타그램 -o ./output_dangstagram
